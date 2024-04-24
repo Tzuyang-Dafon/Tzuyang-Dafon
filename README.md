@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![](https://github-readme-stats.vercel.app/api?username=Tzuyang-Dafon&theme=dracula&show_icons=true&layout=donut-vertical)
 <!--
 **Tzuyang-Dafon/Tzuyang-Dafon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
