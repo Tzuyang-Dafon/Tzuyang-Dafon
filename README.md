@@ -1,5 +1,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Tzuyang-Dafon&title_color=A18AE6&text_color=7A1F99&bg_color=D9D7AD&show_icons=true&layout=donut-vertical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tzuyang-Dafon&layout=compact)
+
 <!-- bg: 利秋白茶
 title: 藤跨
 text: 紫式部
